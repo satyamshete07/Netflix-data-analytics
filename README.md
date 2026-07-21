@@ -41,4 +41,4 @@ This project analyzes Netflix dataset using multiple tools:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run Streamlit_App/app.py
