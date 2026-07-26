@@ -1,44 +1,38 @@
-# 🎬 Netflix Data Analytics Project
+# 🎬 Netflix Data Analytics Dashboard
 
-## 📌 Overview
-This project analyzes Netflix dataset using multiple tools:
+🚀 Live App: https://netflix-data-analytics-rukphpxk8ngd3rcmssvjpx.streamlit.app/
 
-- 🐍 Python (Data Cleaning & EDA)
-- 🧠 SQL (Database & Queries)
-- 📊 Power BI (Interactive Dashboard)
-- 🌐 Streamlit (Web App)
+## 📌 Project Overview
+This project is a Netflix-style data analytics dashboard built using:
+- Python (Pandas, NumPy)
+- SQL
+- Plotly (Interactive Visualizations)
+- Streamlit (Web App)
+
+## 🔥 Features
+- 📊 Content distribution (Movies vs TV Shows)
+- 🌍 Top countries producing content
+- 🎭 Genre analysis
+- 📅 Growth of Netflix content over time
+- 🔍 Search functionality
+
+## 🛠 Tech Stack
+- Python
+- SQL
+- Streamlit
+- Plotly
+- Power BI
+
+## 📸 Screenshots
+(Add screenshots here)
+
+## 💡 Key Insights
+- Majority content is Movies
+- USA produces highest content
+- Rapid growth after 2015
+
+## 📎 Live Demo
+👉 https://netflix-data-analytics-rukphpxk8ngd3rcmssvjpx.streamlit.app/
 
 ---
-
-## 📊 Power BI Dashboard
-- KPI Cards
-- Content Distribution
-- Top Countries
-- Trend Analysis
-
----
-
-## 🧠 SQL
-- Created database using SQLite
-- Performed analysis using queries
-
----
-
-## 🐍 Python
-- Data cleaning using Pandas
-- Visualization using Matplotlib/Seaborn
-
----
-
-## 🌐 Streamlit App
-- Interactive dashboard
-- Filters & search
-- Plotly charts
-
----
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-python -m streamlit run Streamlit_App/app.py
+⭐ If you like this project, give it a star!
